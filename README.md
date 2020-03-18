@@ -2,6 +2,9 @@
 <div>components can be used to build a friendly use </div>
 <div>experience with instant visual updates learning applications. </div>
 <br>
+<div> Link to page:</div>
+<div>https://basic-online-shop.netlify.com/</div>
+<br>
 <div> Features: </div>
 <div> Add  products to the cart<br> </div>
 <div> Remove products to the cart</div>
