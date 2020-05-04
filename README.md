@@ -15,9 +15,6 @@
 <div> Practice use of styled components</div>
 <div> Practice use of bootstrap</div>
 <br>
-<div>Getting started</div>
-<div>Try playing with the code on CodeSandbox </div>
-<br>
 <div>Build/Run</div>
 <div>Requirements:</div>
 <div>NPM</div>
